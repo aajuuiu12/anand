@@ -73,7 +73,7 @@ https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/in
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="All",Shekinah TV
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png" group-title="All",Star Sports 2  HD
+#EXTINF:-1 tvg-id="ts609" tvg-logo="https://tamilbulb.tv/wp-content/uploads/2023/11/ssports2-198x300.png" group-title="All",Star Sports 2  HD
 https://tv5.hoichoi24.com/1007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="All",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
