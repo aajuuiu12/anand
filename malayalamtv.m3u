@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdplay.com/wp-content/uploads/2024/03/IPL.webp" group-title="All",IPL-English
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdplay.com/wp-content/uploads/2024/03/IPL.webp" group-title="All",IPL-Hindi
@@ -9,7 +10,7 @@ https://anand.epicwebtv.me/anandmedia/suryamovies/index.m3u8
 https://anand.epicwebtv.me/anandmedia/asianet_576/index.m3u8
 #EXTINF:-1 tvg-id="ts292" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/ASIAHD.webp" group-title="All",Asianet HD
 https://anand.epicwebtv.me/anandmedia/asianethd_576/index.m3u8
-#EXTINF:-1 tvg-id="Surya.in" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/suryatv.jpg" group-title="All",Surya
+#EXTINF:-1 tvg-id="ts230" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/suryatv.jpg" group-title="All",Surya
 https://summitsports.tech/master.php?id=900&e=.m3u8
 #EXTINF:-1 tvg-id="ts230" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
 https://anand.epicwebtv.me/anandmedia/suryahd_576/index.m3u8
@@ -19,7 +20,7 @@ https://summitsports.tech/master.php?id=1641&e=.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
 https://anand.epicwebtv.me/anandmedia/asianetplus_576/index.m3u8
-#EXTINF:-1 tvg-id="Flowers.in" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="All",Flowers TV
+#EXTINF:-1 tvg-id="ts10" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="All",Flowers TV
 https://anand.epicwebtv.me/anandmedia/flowerstv_576/index.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="All",Asianet Movies
 https://anand.epicwebtv.me/anandmedia/asianetmovies_576/index.m3u8
@@ -37,11 +38,11 @@ https://summitsports.tech/master.php?id=1662&e=.m3u8
 https://dr1zhpsuem5f4.cloudfront.net/master_1000.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/6Rm1v9C.jpg" group-title="All",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KaumudyTV.in" tvg-logo="https://i.imgur.com/34on8t1.jpg" group-title="All",Kaumudy 
+#EXTINF:-1 tvg-id="563" tvg-logo="https://i.imgur.com/34on8t1.jpg" group-title="All",Kaumudy 
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="KappaTV.in" tvg-logo="https://i.imgur.com/QVrSAeV.jpg" group-title="All",Kappa 
+#EXTINF:-1 tvg-id="786" tvg-logo="https://i.imgur.com/QVrSAeV.jpg" group-title="All",Kappa 
 https://idvd.multitvsolution.com/idvo/kappatv_540p.m3u8
-#EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/lroQXCx.png" group-title="All",Kite Victers
+#EXTINF:-1 tvg-id="1429" tvg-logo="https://i.imgur.com/lroQXCx.png" group-title="All",Kite Victers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv2/chunks.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/ZILSAhh.jpg" group-title="All",Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
@@ -49,7 +50,7 @@ https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0
 https://app.m4stream.live/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-logo="https://i.imgur.com/k530iqQ.jpg" group-title="All",Anand TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="httpS://i.imgur.com/hqrMJAZ.jpg" group-title="All",Asianet News
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/hqrMJAZ.jpg" group-title="All",Asianet News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetnews_nim_https/240122/asianetnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Mathrubhumi News.in" tvg-logo="https://i.imgur.com/9elo46x.jpg" group-title="All",Twenty Four News 
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
