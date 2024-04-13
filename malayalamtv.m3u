@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdplay.com/wp-content/uploads/2024/03/IPL.webp" group-title="All",IPL-English
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mhdplay.com/wp-content/uploads/2024/03/IPL.webp" group-title="All",IPL-Hindi
