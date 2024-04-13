@@ -21,9 +21,9 @@ https://summitsports.tech/master.php?id=900&e=.m3u8
 https://anand.epicwebtv.me/anandmedia/suryahd_576/index.m3u8
 #EXTINF:-1 tvg-id="ts694" tvg-logo="https://i.ibb.co/qM32TtN/h0cJG3U.png" group-title="All",Zee Keralam HD
 https://summitsports.tech/master.php?id=1641&e=.m3u8
-#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
+#EXTINF:-1 tvg-id="ts31" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetPlus.in" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
+#EXTINF:-1 tvg-id="ts294" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
 https://anand.epicwebtv.me/anandmedia/asianetplus_576/index.m3u8
 #EXTINF:-1 tvg-id="ts10" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="All",Flowers TV
 https://anand.epicwebtv.me/anandmedia/flowerstv_576/index.m3u8
@@ -31,17 +31,17 @@ https://anand.epicwebtv.me/anandmedia/flowerstv_576/index.m3u8
 https://anand.epicwebtv.me/anandmedia/asianetmovies_576/index.m3u8
 #EXTINF:-1 tvg-id="ts294" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="All",Surya Movies
 https://anand.epicwebtv.me/anandmedia/suryamovies/index.m3u8
-#EXTINF:-1 tvg-id="KairaliTV.in" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="All",Kairali TV
+#EXTINF:-1 tvg-id="ts25" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="All",Kairali TV
 https://anand.epicwebtv.me/anandmedia/kairalitv_576/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="All",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
-#EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/suryamusic1-1.jpg" group-title="All",Surya Music
+#EXTINF:-1 tvg-id="ts483" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/suryamusic1-1.jpg" group-title="All",Surya Music
 https://summitsports.tech/master.php?id=747&e=.m3u8
-#EXTINF:-1 tvg-id="SuryaMovies.in" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/04/suryacomedy-1.jpg" group-title="All",Surya Comedy
+#EXTINF:-1 tvg-id="ts481" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/04/suryacomedy-1.jpg" group-title="All",Surya Comedy
 https://summitsports.tech/master.php?id=1662&e=.m3u8
-#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="All",Amrita TV 
+#EXTINF:-1 tvg-id="ts178" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="All",Amrita TV 
 https://dr1zhpsuem5f4.cloudfront.net/master_1000.m3u8
-#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/6Rm1v9C.jpg" group-title="All",Safari TV
+#EXTINF:-1 tvg-id="ts436" tvg-logo="https://i.imgur.com/6Rm1v9C.jpg" group-title="All",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="563" tvg-logo="https://i.imgur.com/34on8t1.jpg" group-title="All",Kaumudy 
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
@@ -79,13 +79,13 @@ https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256
 https://tv5.hoichoi24.com/1007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="All",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="All",Sony Ten 2
+#EXTINF:-1 tvg-id="ts170" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="All",Sony Ten 2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-logo="https://i.imgur.com/pKe7I1h.png" group-title="All",Sony Ten 3
+#EXTINF:-1 tvg-id="ts171" tvg-logo="https://i.imgur.com/pKe7I1h.png" group-title="All",Sony Ten 3
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mtXzI4L.png" group-title="All",Sony Ten 4
+#EXTINF:-1 tvg-id="ts914" tvg-logo="https://i.imgur.com/mtXzI4L.png" group-title="All",Sony Ten 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
+#EXTINF:-1 tvg-id="ts610" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/04/kochu.jpg" group-title="All",Kochu TV
 https://summitsports.tech/master.php?id=556&e=.m3u8
