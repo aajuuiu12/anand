@@ -77,7 +77,7 @@ https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="ts609" tvg-logo="https://tamilbulb.tv/wp-content/uploads/2023/11/ssports2-198x300.png" group-title="All",Star Sports 2  HD
 https://tv5.hoichoi24.com/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="All",Sony Ten 1
+#EXTINF:-1 tvg-id="ts150" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="All",Sony Ten 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-id="ts170" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="All",Sony Ten 2
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
