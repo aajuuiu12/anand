@@ -91,6 +91,12 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 https://summitsports.tech/master.php?id=556&e=.m3u8
 #EXTINF:-1 tvg-id="ts45" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-id="ts138" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/06/images-1-22-1.png" group-title="All",Nick Hindi
+https://summitsports.tech/master.php?id=545&e=.m3u8
+#EXTINF:-1 tvg-id="ts138" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/06/images-1-22-1.png" group-title="All",Nick Malayalam
+https://summitsports.tech/master.php?id=1340&e=.m3u8
+#EXTINF:-1 tvg-id="ts127" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/07/images-1-24.png" group-title="All",Sonic Hindi
+https://summitsports.tech/master.php?id=815&e=.m3u8
 #EXTINF:-1 tvg-id="ts127" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/08/images-1-1.jpg" group-title="All",Sonic Malayalam
 https://summitsports.tech/master.php?id=1344&e=.m3u8
 #EXTINF:-1 tvg-id="ts239" tvg-logo="https://i.imgur.com/30JAHIO.png" group-title="All",Pogo TV Hindi
