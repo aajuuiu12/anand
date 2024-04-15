@@ -91,21 +91,17 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 https://summitsports.tech/master.php?id=556&e=.m3u8
 #EXTINF:-1 tvg-id="ts45" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="ts138" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/06/images-1-22-1.png" group-title="All",Nick Hindi
+#EXTINF:-1 tvg-id="545" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/06/images-1-22-1.png" group-title="All",Nick Hindi
 https://summitsports.tech/master.php?id=545&e=.m3u8
-#EXTINF:-1 tvg-id="ts138" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/06/images-1-22-1.png" group-title="All",Nick Malayalam
-https://summitsports.tech/master.php?id=1340&e=.m3u8
-#EXTINF:-1 tvg-id="ts127" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/07/images-1-24.png" group-title="All",Sonic Hindi
+#EXTINF:-1 tvg-id="815" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/08/images-1-1.jpg" group-title="All",Nick Sonic
 https://summitsports.tech/master.php?id=815&e=.m3u8
-#EXTINF:-1 tvg-id="ts127" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/08/images-1-1.jpg" group-title="All",Sonic Malayalam
-https://summitsports.tech/master.php?id=1344&e=.m3u8
 #EXTINF:-1 tvg-id="ts239" tvg-logo="https://i.imgur.com/30JAHIO.png" group-title="All",Pogo TV Hindi
 https://summitsports.tech/master.php?id=559&e=.m3u8
 #EXTINF:-1 tvg-id="ts238" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/08/cartnet.webp" group-title="All",Cartoon Network Hindi
 https://summitsports.tech/master.php?id=816&e=.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Hindi 
+#EXTINF:-1 tvg-id="554" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Hindi 
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-id="ts867" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/11/gubbare.webp" group-title="All",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
