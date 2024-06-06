@@ -1,16 +1,10 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdplay.com/wp-content/uploads/2024/03/IPL.webp" group-title="All",IPL-English
-https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mhdplay.com/wp-content/uploads/2024/03/IPL.webp" group-title="All",IPL-Hindi
-https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
-#EXTINF:-1 tvg-id="ts980" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/islind.webp" group-title="All",ISL-English
-https://summitsports.tech/master.php?id=1984&e=.m3u8
-#EXTINF:-1 tvg-id="1998" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/islind.webp" group-title="All",ISL-Hindi
-https://summitsports.tech/master.php?id=1998&e=.m3u8
-#EXTINF:-1 tvg-id="Surya Movies" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/islind.webp" group-title="All",ISL-Malayalam
-https://anand.epicwebtv.me/anandmedia/suryamovies/index.m3u8
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",T20 World Cup - 1
+https://live2.notebulk.xyz/uk_sscricket/index.m3u8
+#EXTINF:-1 tvg-id="Surya Movies" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",T20 World Cup - 2
+https://anand.epicwebtv.me/anandmedia/sports01/index.m3u8
 #EXTINF:-1 tvg-id="ts292" tvg-logo="https://i.imgur.com/1ZSBx9X.png" group-title="All",Asianet
 https://anand.epicwebtv.me/anandmedia/asianet_576/index.m3u8
 #EXTINF:-1 tvg-id="ts292" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/ASIAHD.webp" group-title="All",Asianet HD
@@ -20,7 +14,7 @@ https://summitsports.tech/master.php?id=900&e=.m3u8
 #EXTINF:-1 tvg-id="ts230" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
 https://anand.epicwebtv.me/anandmedia/suryahd_576/index.m3u8
 #EXTINF:-1 tvg-id="ts694" tvg-logo="https://i.ibb.co/qM32TtN/h0cJG3U.png" group-title="All",Zee Keralam HD
-https://summitsports.tech/master.php?id=1641&e=.m3u8
+https://anand.epicwebtv.me/anandmedia/zeekeralamhd_576/index.m3u8
 #EXTINF:-1 tvg-id="ts31" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="ts294" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
