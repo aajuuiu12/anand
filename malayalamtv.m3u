@@ -1,16 +1,14 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTINF:-1 tvg-id="1998" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",T20 World Cup - 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",T20 World Cup - 1
 https://live2.notebulk.xyz/uk_sscricket/index.m3u8
-#EXTINF:-1 tvg-id="Surya Movies" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",T20 World Cup - 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",T20 World Cup - 2
 https://anand.epicwebtv.me/anandmedia/sports01/index.m3u8
 #EXTINF:-1 tvg-id="ts292" tvg-logo="https://i.imgur.com/1ZSBx9X.png" group-title="All",Asianet
 https://anand.epicwebtv.me/anandmedia/asianet_576/index.m3u8
 #EXTINF:-1 tvg-id="ts292" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/ASIAHD.webp" group-title="All",Asianet HD
 https://anand.epicwebtv.me/anandmedia/asianethd_576/index.m3u8
-#EXTINF:-1 tvg-id="ts230" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/suryatv.jpg" group-title="All",Surya
-https://summitsports.tech/master.php?id=900&e=.m3u8
 #EXTINF:-1 tvg-id="ts230" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
 https://anand.epicwebtv.me/anandmedia/suryahd_576/index.m3u8
 #EXTINF:-1 tvg-id="ts694" tvg-logo="https://i.ibb.co/qM32TtN/h0cJG3U.png" group-title="All",Zee Keralam HD
@@ -30,9 +28,9 @@ https://anand.epicwebtv.me/anandmedia/kairalitv_576/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="All",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="ts483" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/suryamusic1-1.jpg" group-title="All",Surya Music
-https://summitsports.tech/master.php?id=747&e=.m3u8
+https://everysports.live/api/sun/live.php?id=26575&e=.m3u8
 #EXTINF:-1 tvg-id="ts481" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/04/suryacomedy-1.jpg" group-title="All",Surya Comedy
-https://summitsports.tech/master.php?id=1662&e=.m3u8
+https://everysports.live/api/sun/live.php?id=26575&e=.m3u8
 #EXTINF:-1 tvg-id="ts178" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="All",Amrita TV 
 https://dr1zhpsuem5f4.cloudfront.net/master_1000.m3u8
 #EXTINF:-1 tvg-id="ts436" tvg-logo="https://i.imgur.com/6Rm1v9C.jpg" group-title="All",Safari TV
@@ -69,30 +67,12 @@ https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/in
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="All",Shekinah TV
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="ts609" tvg-logo="https://tamilbulb.tv/wp-content/uploads/2023/11/ssports2-198x300.png" group-title="All",Star Sports 2  HD
-https://tv5.hoichoi24.com/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ts150" tvg-logo="https://i.imgur.com/NmlUdLb.png" group-title="All",Sony Ten 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-id="ts170" tvg-logo="https://i.imgur.com/WhBOak7.png" group-title="All",Sony Ten 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-id="ts171" tvg-logo="https://i.imgur.com/pKe7I1h.png" group-title="All",Sony Ten 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-id="ts914" tvg-logo="https://i.imgur.com/mtXzI4L.png" group-title="All",Sony Ten 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",Star Sports 1 HD
+https://anand.epicwebtv.me/anandmedia/sports01/index.m3u8
 #EXTINF:-1 tvg-id="ts610" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+https://anand.epicwebtv.me/anandmedia/sports02/index.m3u8
 #EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/04/kochu.jpg" group-title="All",Kochu TV
-https://summitsports.tech/master.php?id=556&e=.m3u8
-#EXTINF:-1 tvg-id="ts45" tvg-logo="https://i.imgur.com/3r99P9m.png" group-title="All",Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="545" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/06/images-1-22-1.png" group-title="All",Nick Hindi
-https://summitsports.tech/master.php?id=545&e=.m3u8
-#EXTINF:-1 tvg-id="815" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/08/images-1-1.jpg" group-title="All",Nick Sonic
-https://summitsports.tech/master.php?id=815&e=.m3u8
-#EXTINF:-1 tvg-id="ts239" tvg-logo="https://i.imgur.com/30JAHIO.png" group-title="All",Pogo TV Hindi
-https://summitsports.tech/master.php?id=559&e=.m3u8
-#EXTINF:-1 tvg-id="ts238" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/08/cartnet.webp" group-title="All",Cartoon Network Hindi
-https://summitsports.tech/master.php?id=816&e=.m3u8
+https://everysports.live/api/sun/live.php?id=26573&e=.m3u8
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
 #EXTINF:-1 tvg-id="554" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Hindi 
