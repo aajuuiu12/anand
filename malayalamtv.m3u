@@ -27,10 +27,6 @@ https://anand.epicwebtv.me/anandmedia/suryamovies/index.m3u8
 https://anand.epicwebtv.me/anandmedia/kairalitv_576/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="All",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ts483" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/suryamusic1-1.jpg" group-title="All",Surya Music
-https://everysports.live/api/sun/live.php?id=26575&e=.m3u8
-#EXTINF:-1 tvg-id="ts481" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/04/suryacomedy-1.jpg" group-title="All",Surya Comedy
-https://everysports.live/api/sun/live.php?id=26575&e=.m3u8
 #EXTINF:-1 tvg-id="ts178" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="All",Amrita TV 
 https://dr1zhpsuem5f4.cloudfront.net/master_1000.m3u8
 #EXTINF:-1 tvg-id="ts436" tvg-logo="https://i.imgur.com/6Rm1v9C.jpg" group-title="All",Safari TV
@@ -61,8 +57,6 @@ https://mmtvlive1.akamaized.net/out/v1/b07e2eca22624651960999f9ac2f4b7d/index.m3
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="All",Reporter TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/10EI7FC.jpg" group-title="All",Zee News Malayalam
-https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-logo="https://i.imgur.com/Fw8yvvx.png" group-title="All",Discovery HD Malayalam
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="All",Shekinah TV
@@ -71,8 +65,6 @@ https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256
 https://anand.epicwebtv.me/anandmedia/sports01/index.m3u8
 #EXTINF:-1 tvg-id="ts610" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
 https://homeip.biz/livso/index.m3u8
-#EXTINF:-1 tvg-id="SonyYAY.in" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/04/kochu.jpg" group-title="All",Kochu TV
-https://everysports.live/api/sun/live.php?id=26573&e=.m3u8
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
 #EXTINF:-1 tvg-id="554" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Hindi 
