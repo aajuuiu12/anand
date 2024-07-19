@@ -11,6 +11,8 @@ https://anand.epicwebtv.me/anandmedia/suryahd_576/index.m3u8
 https://anand.epicwebtv.me/anandmedia/zeekeralamhd_576/index.m3u8
 #EXTINF:-1 tvg-id="ts31" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1 tvg-id="ts395" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/mazhavil-manorama-hd/index.ts
 #EXTINF:-1 tvg-id="ts294" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
 https://anand.epicwebtv.me/anandmedia/asianetplus_576/index.m3u8
 #EXTINF:-1 tvg-id="ts10" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="All",Flowers TV
@@ -60,10 +62,10 @@ https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FVRxRJd/STARSP1-HD.webp" group-title="All",Star Sports 1 HD
 https://anand.epicwebtv.me/anandmedia/sports01/index.m3u8
 #EXTINF:-1 tvg-id="ts610" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
-https://homeip.biz/livso/index.m3u8
+https://tplay.dinesh29.com.np/live/tataplay-universal/sony-sports-ten-5-hd/index.ts
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
-#EXTINF:-1 tvg-id="554" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Hindi 
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Hindi 
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-id="ts867" tvg-logo="https://i.ibb.co/2cZ1TR6/gubbare-185x278.webp" group-title="All",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
