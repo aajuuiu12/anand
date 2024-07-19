@@ -1,13 +1,9 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",T20 World Cup - 1
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",T20 World Cup - 2
-https://anand.epicwebtv.me/anandmedia/sports01/index.m3u8
 #EXTINF:-1 tvg-id="ts292" tvg-logo="https://i.imgur.com/1ZSBx9X.png" group-title="All",Asianet
 https://anand.epicwebtv.me/anandmedia/asianet_576/index.m3u8
-#EXTINF:-1 tvg-id="ts292" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/01/ASIAHD.webp" group-title="All",Asianet HD
+#EXTINF:-1 tvg-id="ts292" tvg-logo="https://i.ibb.co/sCNxTK6/ASIAHD-185x278.webp" group-title="All",Asianet HD
 https://anand.epicwebtv.me/anandmedia/asianethd_576/index.m3u8
 #EXTINF:-1 tvg-id="ts230" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
 https://anand.epicwebtv.me/anandmedia/suryahd_576/index.m3u8
@@ -61,13 +57,13 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="All",Shekinah TV
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://nowsportv.com/wp-content/uploads/2023/04/CRICTV.png" group-title="All",Star Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FVRxRJd/STARSP1-HD.webp" group-title="All",Star Sports 1 HD
 https://anand.epicwebtv.me/anandmedia/sports01/index.m3u8
 #EXTINF:-1 tvg-id="ts610" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
 https://homeip.biz/livso/index.m3u8
-#EXTINF:-1 tvg-id="ts119" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
-#EXTINF:-1 tvg-id="554" tvg-logo="https://mhdmax.com/wp-content/uploads/2020/11/1T8F62O.png" group-title="All",Discovery Kids Hindi 
+#EXTINF:-1 tvg-id="554" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Hindi 
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
-#EXTINF:-1 tvg-id="ts867" tvg-logo="https://mhdmax.com/wp-content/uploads/2021/11/gubbare.webp" group-title="All",Gubbare
+#EXTINF:-1 tvg-id="ts867" tvg-logo="https://i.ibb.co/2cZ1TR6/gubbare-185x278.webp" group-title="All",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
