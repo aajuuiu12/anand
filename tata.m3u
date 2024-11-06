@@ -2,27 +2,27 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTINF:-1 tvg-id="ts292" tvg-logo="https://i.imgur.com/1ZSBx9X.png" group-title="All",Asianet
-http://cinesoft.b-cdn.net/anandmedia/asianet_576/index.m3u8
+http://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/asianet_576/index.m3u8
 #EXTINF:-1 tvg-id="ts292" tvg-logo="https://i.ibb.co/sCNxTK6/ASIAHD-185x278.webp" group-title="All",Asianet HD
-https://cinesoft.b-cdn.net/anandmedia/asianethd_576/index.m3u8
+https://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/asianethd_576/index.m3u8
 #EXTINF:-1 tvg-id="ts230" tvg-logo="https://i.imgur.com/my7xncW.jpg" group-title="All",Surya HD
-https://cinesoft.b-cdn.net/anandmedia/suryahd_576/index.m3u8
+https://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/suryahd_576/index.m3u8
 #EXTINF:-1 tvg-id="ts694" tvg-logo="https://i.ibb.co/qM32TtN/h0cJG3U.png" group-title="All",Zee Keralam HD
-https://cinesoft.b-cdn.net/anandmedia/zeekeralamhd_576/index.m3u8
+https://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/zeekeralamhd_576/index.m3u8
 #EXTINF:-1 tvg-id="ts31" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="ts395" tvg-logo="https://i.imgur.com/uV3SgSb.jpg" group-title="All",Mazhavil Manorama HD
-https://cinesoft.b-cdn.net/anandmedia/mazhavilmanorama_576/index.m3u8
+https://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/mazhavilmanorama_576/index.m3u8
 #EXTINF:-1 tvg-id="ts294" tvg-logo="https://i.imgur.com/gEq5lHd.png" group-title="All",Asianet Plus
-https://cinesoft.b-cdn.net/anandmedia/asianetplus_576/index.m3u8
+https://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/asianetplus_576/index.m3u8
 #EXTINF:-1 tvg-id="ts10" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="All",Flowers TV
-http://cinesoft.b-cdn.net/anandmedia/flowerstv_576/index.m3u8
+http://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/flowerstv_576/index.m3u8
 #EXTINF:-1 tvg-id="ts293" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="All",Asianet Movies
-http://cinesoft.b-cdn.net/anandmedia/asianetmovies_576/index.m3u8
+http://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/asianetmovies_576/index.m3u8
 #EXTINF:-1 tvg-id="ts229" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="All",Surya Movies
-http://cinesoft.b-cdn.net/anandmedia/suryamovies/index.m3u8
+http://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/suryamovies/index.m3u8
 #EXTINF:-1 tvg-id="ts25" tvg-logo="https://i.imgur.com/kVCJThg.jpg" group-title="All",Kairali TV
-http://cinesoft.b-cdn.net/anandmedia/kairalitv_576/index.m3u8
+http://rajumadrassi-kotharaju.epicwebtv.work.gd/anandmedia/kairalitv_576/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.in" tvg-logo="https://i.imgur.com/IxBTtib.jpg" group-title="All",We TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #EXTINF:-1 tvg-id="ts178" tvg-logo="https://i.imgur.com/UqxNPMZ.jpg" group-title="All",Amrita TV 
