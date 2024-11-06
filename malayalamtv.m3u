@@ -47,8 +47,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="Mathrubhumi News.in" tvg-logo="https://i.imgur.com/fA38Vk4.jpg" group-title="All",Mathrubhumi News
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3SDjYrp.png" group-title="All",Enlight News
-https://live.enlightnews.com/live/enlightnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/rwAIblA.jpg" group-title="All",Manorama News
 https://mmtvlive1.akamaized.net/out/v1/b07e2eca22624651960999f9ac2f4b7d/index.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in" tvg-logo="https://i.imgur.com/F5qOmvz.jpg" group-title="All",Janam TV
@@ -60,9 +58,9 @@ https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="All",Shekinah TV
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FVRxRJd/STARSP1-HD.webp" group-title="All",Star Sports 1 HD
-https://anand.epicwebtv.me/anandmedia/sports01/index.m3u8
+http://119.152.240.15:8001/play/a0gp/index.m3u8
 #EXTINF:-1 tvg-id="ts610" tvg-logo="https://i.imgur.com/0nNPsUI.jpg" group-title="All",Sony Ten 5
-http://falcontvip.com:80/37463832/42584237/242863
+http://119.152.240.15:8001/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Hindi 
