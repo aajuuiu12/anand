@@ -57,10 +57,10 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JCId5rm.png" group-title="All",Shekinah TV
 https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256,b512,b720,b1200,b1600,.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FVRxRJd/STARSP1-HD.webp" group-title="All",Star Sports 1 HD
-https://cinesoft.b-cdn.net/anandmedia/sports01_576/index.m3u8
-#EXTINF:-1 tvg-id="ts610" tvg-logo="https://i.postimg.cc/BbRyxWmc/sten3sd.png" group-title="All",Sony Ten 3
-http://119.152.240.15:8001/play/a0gx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://neesport.nl/wp-content/uploads/2023/07/khel.webp" group-title="All",Sports18 Khel
+http://tamashatv.live/jiotv/jiocloud.php?id=1998
+#EXTINF:-1 tvg-id="ts610" tvg-logo="https://neesport.nl/wp-content/uploads/2023/04/sports18hd.webp" group-title="All",Sports18 1 HD
+http://tamashatv.live/jiotv/jiocloud.php?id=1985
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Hindi 
