@@ -60,7 +60,7 @@ https://shekinah.pc.cdn.bitgravity.com/shekinah/live/amlst:shekinahchannel_,b256
 #EXTINF:-1 tvg-id="" tvg-logo="https://neesport.nl/wp-content/uploads/2023/07/khel.webp" group-title="All",Sports18 Khel
 http://tamashatv.live/jiotv/jiocloud.php?id=1998
 #EXTINF:-1 tvg-id="ts610" tvg-logo="https://neesport.nl/wp-content/uploads/2023/04/sports18hd.webp" group-title="All",Sports18 1 HD
-https://spottonefootball.akamaized.net/hls/live/2029250/4816575_372639/master.m3u8?cid=28387&ecid=5770707&pid=5&dtid=1&sid=791425384448&gc=kvI&gsd=kP4&grm=1&hdnea=exp=1737557213~acl=*/hls/live/2029250*/4816575_372639/*~hmac=0f07fcd1e589d45420bd0cf14d1d015f4dbb518419def9c341b54173b46a6538&content=1864670
+https://spottonefootball.akamaized.net/hls/live/2029250/4816575_372639/master.m3u8?cid=28387&ecid=5770707&pid=5&dtid=1&sid=321817472849&gc=H3k&gsd=HXU&grm=1&hdnea=exp=1737557528~acl=*/hls/live/2029250*/4816575_372639/*~hmac=d5b29b12e2b8ff2bef93a55a5f289a2e007548abe94498530d28030622add925&content=1864670
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Malayalam 
 https://raw.githubusercontent.com/IPTVVlogs/MAC-/main/discoverykidsmal.m3u8
 #EXTINF:-1 tvg-id="ts119" tvg-logo="https://i.ibb.co/SrC2sC6/1T8F62O.png" group-title="All",Discovery Kids Hindi 
