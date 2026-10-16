@@ -17,6 +17,8 @@ https://cinesoft.b-cdn.net/anandmedia/mazhavilmanorama_576/index.m3u8
 https://cinesoft.b-cdn.net/anandmedia/asianetplus_576/index.m3u8
 #EXTINF:-1 tvg-id="ts10" tvg-logo="https://i.imgur.com/kDgTzUm.jpg" group-title="All",Flowers TV
 http://cinesoft.b-cdn.net/anandmedia/flowerstv_576/index.m3u8
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png" group-title="All",Asianet Middle East
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-id="ts293" tvg-logo="https://i.imgur.com/23ktt7p.png" group-title="All",Asianet Movies
 http://cinesoft.b-cdn.net/anandmedia/asianetmovies_576/index.m3u8
 #EXTINF:-1 tvg-id="ts229" tvg-logo="https://i.imgur.com/jGyUuVU.jpg" group-title="All",Surya Movies
